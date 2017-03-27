@@ -1,0 +1,3 @@
+D:\caffe\caffe-windows\Build\x64\Release\caffe.exe train --solver=D:\caffe\caffe-windows\data\mydata\my_solver_1.prototxt
+
+Pause
